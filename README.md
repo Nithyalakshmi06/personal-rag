@@ -39,7 +39,9 @@ Generated Answer
 
 ## 📸 Demo
 
-![Uploading image.png…]()
+## 📸 Demo
+
+![Personal RAG Demo](screenshots/rag-demo.png)
 
 
 ## 📂 Project Structure
