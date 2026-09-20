@@ -37,11 +37,10 @@ Generated Answer
 - Streamlit
 - Pandas
 
-## 📸 Demo
 
 ## 📸 Demo
 
-![Personal RAG Demo](screenshots/rag-demo.png)
+![Personal RAG Demo](rag-demo.png)
 
 
 ## 📂 Project Structure
